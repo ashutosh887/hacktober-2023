@@ -6,7 +6,7 @@ type Props = {};
 
 function Nav({}: Props) {
   return (
-    <div className="w-full flex items-center max-w-7xl h-max py-2 justify-between">
+    <div className="flex items-center justify-between py-2 w-full max-w-7xl h-max">
       <span className="text-primary font-semibold text-xl">{appName}</span>
 
       <ModeToggle />
