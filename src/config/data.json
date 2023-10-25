@@ -10,5 +10,12 @@
     "email": "demo@example.com",
     "githubURL": "https://github.com/demo-something",
     "about": "Demo User"
+  },
+    {
+    "name": "Prabhat",
+    "email": "prabhatm.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/Prabhat-5",
+    "about": "Student"
   }
+  
 ]
