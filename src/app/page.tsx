@@ -1,3 +1,4 @@
+import Footer from "@/components/common/Footer";
 import Nav from "@/components/common/Nav";
 import React from "react";
 
@@ -5,13 +6,13 @@ type Props = {};
 
 function Home({}: Props) {
   return (
-    <main className="flex flex-col w-full h-screen border border-white items-center marker:space-y-2">
+    <div className="flex flex-col min-h-screen items-center max-h-screen">
       <Nav />
 
-      <div>some table</div>
+      <div className="flex-grow overflow-y-scroll">hi</div>
 
-      <div className="">some footer</div>
-    </main>
+      <Footer />
+    </div>
   );
 }
 
