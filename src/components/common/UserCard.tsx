@@ -4,18 +4,18 @@ import React, { useEffect, useState } from "react";
 type Props = {
   name?: string;
   email?: string;
-  githubUrl?: string;
+  githubURL?: string;
   about?: string;
 };
 
-function UserCard({ name, email, githubUrl, about }: Props) {
+function UserCard({ name, email, githubURL, about }: Props) {
   const [userName, setUserName] = useState<string | null>("");
 
   useEffect(() => {
-    if (githubUrl) {
-      setUserName(extractUserName(githubUrl));
+    if (githubURL) {
+      setUserName(extractUserName(githubURL));
     }
-  }, [githubUrl]);
+  }, [githubURL]);
 
   return (
     <div className="bg-secondary flex flex-col rounded-lg p-4 m-1">
