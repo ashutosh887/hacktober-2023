@@ -1,12 +1,11 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { ThemeProvider } from "@/components/common/ThemeProvider";
 import "./globals.css";
-
-const inter = Inter({ subsets: ["latin"] });
+import type { Metadata } from "next";
+import { appName } from "@/config/constants";
 
 export const metadata: Metadata = {
-  title: "Hacktober Fest 2023 Playground",
-  description: "Designed & Developed by @ashutosh887",
+  title: `${appName}`,
+  description: `${appName}`,
 };
 
 export default function RootLayout({
@@ -16,7 +15,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
   );
 }

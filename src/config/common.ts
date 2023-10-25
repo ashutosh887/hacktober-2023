@@ -1,1 +1,0 @@
-export const name = "Hacktober Fest 2023"
