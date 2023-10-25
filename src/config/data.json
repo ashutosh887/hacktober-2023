@@ -1,8 +1,14 @@
 [
-    {
-        "name": "Ashutosh Jha",
-        "email": "ashutoshj887@gmail.com",
-        "githubURL": "https://github.com/ashutosh887/",
-        "about": "Software Engineer"
-    }
+  {
+    "name": "Ashutosh Jha",
+    "email": "ashutoshj887@gmail.com",
+    "githubURL": "https://github.com/ashutosh887/",
+    "about": "Software Engineer"
+  },
+  {
+    "name": "Prathyush Menon",
+    "email": "Prathysuh.menon26@gmail.com",
+    "githubURL": "https://github.com/PrathyushMenon/",
+    "about": "B.Tech Student "
+  }
 ]
