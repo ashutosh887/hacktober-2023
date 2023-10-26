@@ -1,14 +1,164 @@
 [
-    {
-        "name": "Ashutosh Jha",
-        "email": "ashutoshj887@gmail.com",
-        "githubURL": "https://github.com/ashutosh887/",
-        "about": "Software Engineer"
-    },
-    {
-        "name": "Sanjay S G",
-        "email": "Sanjays.bsc23@rvu.edu.in",
-        "githubURL": "https://github.com/Sanjay2408/",
-        "about": "Student at RVU Interested in web development"
-    }
+  {
+    "name": "Ashutosh jha",
+    "email": "ashutoshj887@gmail.com",
+    "githubURL": "https://github.com/ashutosh887",
+    "about": "Software Engineer"
+  },
+  {
+    "name": "Gayatri Mishra",
+    "email": "gayatrimishra2424@gmail.com",
+    "githubURL": "https://github.com/gayatrimishraa",
+    "about": "Student"
+  },
+  {
+    "name": " Vishnu Bharadwaj M",
+    "email": "vishnubm.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/kool555",
+    "about": "Engineering Student"
+  },
+  {
+    "name": "Vidhvath J",
+    "email": "vidhvathj.2005@gmail.com",
+    "githubURL": "https://github.com/vidhvath28",
+    "about": "student"
+  },
+  {
+    "name": "Amey VH",
+    "email": "ameyhiremath2000@gmail.com",
+    "githubURL": "https://github.com/amey2724",
+    "about": "Student"
+  },
+  {
+    "name": "jatin",
+    "email": "jmgulati007@gmail.com",
+    "githubURL": "https://github.com/jatinMGulati",
+    "about": "student"
+  },
+  {
+    "name": "Prerana M Shirur",
+    "email": "preranams.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/preranamshirur",
+    "about": "First year btech student"
+  },
+  {
+    "name": "jaee",
+    "email": "zaeecool@gmail.com",
+    "githubURL": "https://github.com/Mehmeh545",
+    "about": "Student"
+  },
+  {
+    "name": "Bhavani Mishra",
+    "email": "bhavanimishra6@gmail.com",
+    "githubURL": "https://github.com/bhavanimish",
+    "about": "student"
+  },
+  {
+    "name": "Rithika Vinod",
+    "email": "rithikav.05@gmail.com",
+    "githubURL": "https://github.com/Nevertheritz",
+    "about": "Student (trying)"
+  },
+  {
+    "name": "Pushan T",
+    "email": "pushan.sahanaganesh@gmail.com",
+    "githubURL": "https://github.com/Pushan2005",
+    "about": "Hacktoberfest 2023 participant"
+  },
+  {
+    "name": "Supreeth",
+    "email": "blsupreeth@gmail.com",
+    "githubURL": "https://github.com/Valpix3",
+    "about": "Student of RV University"
+  },
+  {
+    "name": "Thai Jayani Krishna",
+    "email": "jayanikt@gmail.com",
+    "githubURL": "https://github.com/jayanikrishna",
+    "about": "student Engineer"
+  },
+  {
+    "name": "Mehul Goyal",
+    "email": "mehulgoyal238@gmail.com",
+    "githubURL": "https://github.com/Arnidh",
+    "about": "First year Btech student"
+  },
+  {
+    "name": "Mohammed Ismail",
+    "email": "mohammedi.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/Ismailrvu",
+    "about": "First Year BTech Student"
+  },
+  {
+    "name": "Likith sg",
+    "email": "likithsg.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/likith-sg",
+    "about": "Student"
+  },
+  {
+    "name": "Jaineesh",
+    "email": "jaineeshp.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/Jaineeshp",
+    "about": "Student"
+  },
+  {
+    "name": "Vedansh Maheshwari",
+    "email": "vedanshm15@gmail.com",
+    "githubURL": "https://github.com/VedanshMaheshwari",
+    "about": "CSE - Undergrad"
+  },
+  {
+    "name": "kanu prieya ",
+    "email": "kanuprieya@gmail.com",
+    "githubURL": "https://github.com/kanuprieya",
+    "about": "student"
+  },
+  {
+    "name": "Pushkar Roy",
+    "email": "roy2000pushkar@gmail.com",
+    "githubURL": "https://github.com/roy2pushkar",
+    "about": "Student | Developer"
+  },
+  {
+    "name": "Suman patel",
+    "email": "sumanp.bsc23@rvu.edu.in",
+    "githubURL": "https://github.com/sumanpatel18",
+    "about": "Software Engineer"
+  },
+  {
+    "name": "Varun Shah",
+    "email": "varunshah111103@gmail.com",
+    "githubURL": "https://github.com/varunlmxd",
+    "about": "Open Source and CP enthusiast"
+  },
+  { 
+    "name": "Anirudh",
+    "email": "anirudh.ashrith2005@gmail.com",
+    "githubURL": "https://github.com/me50/Ani07-05",
+    "about": "Student"
+  },
+  {
+    "name": "vibhu",
+    "email": "vibhu1895@gmail.com",
+    "githubURL": "https://github.com/vibhupottekula/",
+    "about": "Student"
+  },
+  {
+    "name": "Sushruth V Kamble",
+    "email": "sushruthvi3@gmail.com",
+    "githubURL": "https://github.com/Sushruthvi",
+    "about":"Student"
+  },
+  {
+    "name": "Kareem ",
+    "email": "kareemun.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/Kareeemsgit/",
+    "about": "Student"
+  },
+  {
+     "name": "Sanjay S G",
+     "email": "Sanjays.bsc23@rvu.edu.in",
+     "githubURL": "https://github.com/Sanjay2408/",
+     "about": "Student at RVU Interested in web development"
+   }
 ]
