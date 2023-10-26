@@ -1,15 +1,44 @@
 [
-    {
-        "name": "Ashutosh Jha",
-        "email": "ashutoshj887@gmail.com",
-        "githubURL": "https://github.com/ashutosh887/",
-        "about": "Software Engineer"
-    },
-    {
-         "name": "Prerana M Shirur",
-        "email": "preranams.btech23@rvu.edu.in",
-        "githubURL": "https://github.com/preranamshirur",
-        "about": "First year btech student"
-    }
-    
+  {
+    "name": "Ashutosh jha",
+    "email": "ashutoshj887@gmail.com",
+    "githubURL": "https://github.com/ashutosh887/",
+    "about": "Software Engineer"
+  },
+  {
+    "name": "Gayatri Mishra",
+    "email": "gayatrimishra2424@gmail.com",
+    "githubURL": "https://github.com/gayatrimishraa",
+    "about": "Student"
+  },
+  {
+    "name": " Vishnu Bharadwaj M",
+    "email": "vishnubm.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/kool555/",
+    "about": "Engineering Student"
+  },
+  {
+    "name": "Vidhvath J",
+    "email": "vidhvathj.2005@gmail.com",
+    "githubURL": "https://github.com/vidhvath28",
+    "about": "student"
+  },
+  {
+    "name": "Amey VH",
+    "email": "ameyhiremath2000@gmail.com",
+    "githubURL": "https://github.com/amey2724",
+    "about": "Student"
+  },
+  {
+    "name": "jatin",
+    "email": "jmgulati007@gmail.com",
+    "githubURL": "https://github.com/jatinMGulati",
+    "about": "student"
+  },
+  {
+    "name": "Prerana M Shirur",
+    "email": "preranams.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/preranamshirur",
+    "about": "First year btech student"
+  }
 ]
