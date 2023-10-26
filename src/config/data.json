@@ -188,13 +188,13 @@
   {
    "name":"Tanmay M S",
     "email": "tanmayms.btech23@rvu.edu.in",
-    "githubURL": "https://github.com/tanygit/",
+    "githubURL": "https://github.com/tanygit",
     "about":"Student"
   },
   {
     "name": "Sri Krishna R Hebbar",
     "email": "srikrishnarhebbar1802@gmail.com",
-    "githubURL": "https://github.com/Sri-Krishna-R-Hebbar/",
+    "githubURL": "https://github.com/Sri-Krishna-R-Hebbar",
     "about": "Software Engineer"
   },
   {
@@ -212,7 +212,13 @@
   {
     "name": "OJAS B A",
     "email": "ojasba.49@gmail.com",
-    "githubURL": "https://github.com/ojas-ba/",
+    "githubURL": "https://github.com/ojas-ba",
     "about": "student"
+  },
+  {
+    "name": "Prathyush Menon",
+    "email": "Prathysuh.menon26@gmail.com",
+    "githubURL": "https://github.com/PrathyushMenon",
+    "about": "B.Tech Student"
   }
 ]
