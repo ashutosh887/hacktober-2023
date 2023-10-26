@@ -6,6 +6,12 @@
     "about": "Software Engineer"
   },
   {
+    "name": "Gayatri Mishra",
+    "email": "gayatrimishra2424@gmail.com",
+    "githubURL": "https://github.com/gayatrimishraa",
+    "about": "Student"
+  },
+  {
     "name": " Vishnu Bharadwaj M",
     "email": "vishnubm.btech23@rvu.edu.in",
     "githubURL": "https://github.com/kool555/",
@@ -24,9 +30,9 @@
     "about": "Student"
   },
   {
-    "name": "Gayatri Mishra",
-    "email": "gayatrimishra2424@gmail.com",
-    "githubURL": "https://github.com/gayatrimishraa",
-    "about": "Student"
+    "name": "jatin",
+    "email": "jmgulati007@gmail.com",
+    "githubURL": "jatinMGulati",
+    "about": "student"
   }
 ]
