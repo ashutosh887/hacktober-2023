@@ -2,7 +2,7 @@
   {
     "name": "Ashutosh jha",
     "email": "ashutoshj887@gmail.com",
-    "githubURL": "https://github.com/ashutosh887/",
+    "githubURL": "https://github.com/ashutosh887",
     "about": "Software Engineer"
   },
   {
@@ -14,7 +14,7 @@
   {
     "name": " Vishnu Bharadwaj M",
     "email": "vishnubm.btech23@rvu.edu.in",
-    "githubURL": "https://github.com/kool555/",
+    "githubURL": "https://github.com/kool555",
     "about": "Engineering Student"
   },
   {
@@ -62,13 +62,13 @@
   {
     "name": "Pushan T",
     "email": "pushan.sahanaganesh@gmail.com",
-    "githubURL": "https://github.com/Pushan2005/",
+    "githubURL": "https://github.com/Pushan2005",
     "about": "Hacktoberfest 2023 participant"
   },
   {
     "name": "Supreeth",
     "email": "blsupreeth@gmail.com",
-    "githubURL": "https://github.com/Valpix3/",
+    "githubURL": "https://github.com/Valpix3",
     "about": "Student of RV University"
   },
   {
@@ -88,5 +88,11 @@
     "email": "mohammedi.btech23@rvu.edu.in",
     "githubURL": "https://github.com/Ismailrvu",
     "about": "First Year BTech Student"
+  },
+  {
+    "name": "Likith sg",
+    "email": "likithsg.btech23@rvu.edu.in",
+    "githubURL": "https://github.com/likith-sg",
+    "about": "Student"
   }
 ]
