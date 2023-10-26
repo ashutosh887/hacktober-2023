@@ -140,7 +140,7 @@
   {
     "name": "vibhu",
     "email": "vibhu1895@gmail.com",
-    "githubURL": "https://github.com/vibhupottekula/",
+    "githubURL": "https://github.com/vibhupottekula",
     "about": "Student"
   },
   {
@@ -152,31 +152,37 @@
   {
     "name": "Kareem ",
     "email": "kareemun.btech23@rvu.edu.in",
-    "githubURL": "https://github.com/Kareeemsgit/",
+    "githubURL": "https://github.com/Kareeemsgit",
     "about": "Student"
   },
   {
      "name": "Sanjay S G",
      "email": "Sanjays.bsc23@rvu.edu.in",
-     "githubURL": "https://github.com/Sanjay2408/",
+     "githubURL": "https://github.com/Sanjay2408",
      "about": "Student at RVU Interested in web development"
    },
   {
     "name": "Sagar N Rao",
     "email": "sagarnrao154@gmail.com",
-    "githubURL": "https://github.com/SagarNRao/",
+    "githubURL": "https://github.com/SagarNRao",
     "about": "BTech.CS"
   },
   {
     "name": "Nithin S",
     "email": "nithindude74@gmail.com",
-    "githubURL": "https://github.com/Xeane74/",
+    "githubURL": "https://github.com/Xeane74",
     "about": "student"
   },
   {
     "name": "Dheeraj M",
     "email": "itsthedheeraj@gmail.com",
-    "githubURL": "https://github.com/Dheeraj-8055/",
+    "githubURL": "https://github.com/Dheeraj-8055",
     "about": "Software Engineer"
-  }
+  },
+  {
+     "name": "Aditya Kumar",
+     "email": "adityakumar13820@gmail.com",
+     "githubURL": "https://github.com/AdityaCodeZZZ",
+     "about": "Software Engineer"
+   }
 ]
