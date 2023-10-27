@@ -1,5 +1,6 @@
 import { extractUserName } from "@/util/extractUserName";
 import React, { useEffect, useState } from "react";
+import { AiOutlineMail, AiFillGithub } from "react-icons/ai";
 
 type Props = {
   name?: string;
@@ -20,9 +21,21 @@ function UserCard({ name, email, githubURL, about }: Props) {
   return (
     <div className="flex flex-col bg-secondary rounded-lg p-4">
       <span className="text-primary text-xl">{name || "undefined"}</span>
-      <span>{email || "undefined"}</span>
-      <span>{userName || "undefined"}</span>
+      {/* <span>{email || "undefined"}</span>
+      <span>{userName || "undefined"}</span> */}
       <span>{about || "undefined"}</span>
+
+      <button
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-2"
+        // onClick=()
+      >
+        <AiOutlineMail className="inline-block w-6 h-6 mr-2" />
+        {email || "undefined"}
+      </button>
+      <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded mt-2">
+        <AiFillGithub className="inline-block w-6 h-6 mr-2" />
+        {userName || "undefined"}
+      </button>
     </div>
   );
 }
