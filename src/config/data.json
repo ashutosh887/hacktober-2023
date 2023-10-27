@@ -260,13 +260,19 @@
   {
     "name": "Shree vyshnavi",
     "email": "shreevyshnavia.btech22@rvu.edu.in",
-    "githubURL": "https://github.com/ashreevyshnavi2005/",
+    "githubURL": "https://github.com/ashreevyshnavi2005",
     "about": "Student"
   },
   {
     "name": "Smaran R Bharadwaj",
     "email": "smaranrbharadwaj@gmail.com",
-    "githubURL": "https://github.com/smaranrb/",
+    "githubURL": "https://github.com/smaranrb",
     "about": "Chiller in DaChillCrib (https://smaranrb.github.io/Da-Chill-Crib/)"
+  },
+  {
+    "name": "Riya More",
+    "email": "riyamore2120@gmail.com",
+    "githubURL": "https://github.com/Sipiya",
+    "about": "Student"
   }
 ]
