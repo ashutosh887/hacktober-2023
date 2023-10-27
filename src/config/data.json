@@ -296,7 +296,13 @@
   {
     "name": "Vanshaj",
     "email": "vanshaj.btech23@rvu.edu.in",
-    "githubURL": "https://github.dev/GenZGarg14/hacktober-2023/",
+    "githubURL": "https://github.dev/GenZGarg14",
     "about": "Ass. Software Engineer"
+  },
+  {
+    "name": "Devansh Mehrotra",
+    "email":"devanshmeh.15@gmail.com",
+    "githubURL":"https://github.com/DEVANSHM15",
+    "about":"Student"
   }
 ]
