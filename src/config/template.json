@@ -1,6 +1,8 @@
-{
-    "name": "your name",
-    "email": "your email id",
-    "githubURL": "your github profile URL",
-    "about": "something about you"
-}
+[
+    {
+        "name": "Smaran R Bharadwaj",
+        "email": "smaranrbharadwaj@gmail.com",
+        "githubURL": "https://github.com/smaranrb/",
+        "about": "In da DaChillCrib (https://smaranrb.github.io/Da-Chill-Crib/)"
+    }
+]
