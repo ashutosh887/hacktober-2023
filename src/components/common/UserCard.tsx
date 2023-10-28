@@ -18,10 +18,14 @@ function UserCard({ name, email, githubURL, about }: Props) {
   }, [githubURL]);
 
   return (
-    <div className="bg-secondary flex flex-col rounded-lg p-4 m-1">
-      <span className="text-primary">{name || "undefined"}</span>
+    <div className="flex flex-col bg-secondary cursor-pointer  rounded-lg p-4">
+      <span className="text-primary text-xl">{name || "undefined"}</span>
       <span>{email || "undefined"}</span>
-      <span>{userName || "undefined"}</span>
+      <span>
+        <a className=" hover:text-red-600 " href={githubURL} target="_blank" rel="noopener noreferrer">
+          {userName ? `GitHub: ${userName}` : "undefined"}
+        </a>
+      </span>
       <span>{about || "undefined"}</span>
     </div>
   );
