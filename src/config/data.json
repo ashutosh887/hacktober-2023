@@ -9,6 +9,11 @@
         "name": "Sanjay S G",
         "email": "Sanjays.bsc23@rvu.edu.in",
         "githubURL": "https://github.com/Sanjay2408/",
-        "about": "Student at RVU Interested in web development"
+        "about": "Student at RVU Interested in web development",
+        "profilePicture": {
+            "url": "https://github.com/Sanjay2408.png",
+            "width": 50,
+            "height": 50
+        }
     }
 ]
