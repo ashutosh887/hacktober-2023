@@ -1,6 +1,7 @@
 import { extractUserName } from "@/util/extractUserName";
 import React, { useEffect, useState } from "react";
 import { AiOutlineMail, AiFillGithub } from "react-icons/ai";
+import Link from "next/link";
 
 type Props = {
   name?: string;
@@ -30,11 +31,12 @@ function UserCard({ name, email, githubURL, about }: Props) {
         <AiOutlineMail className="inline-block w-6 h-6 mr-2" />
         {email || "undefined"}
       </button>
+
       <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded mt-2">
-        <AiFillGithub className="inline-block w-6 h-6 mr-2" />
-        <a href={`https://github.com/${userName}`} target="_blank">
+        <Link href={`https://github.com/${userName}`} target="_blank" passHref>
+          <AiFillGithub className="inline-block w-6 h-6 mr-2" />
           {userName || "undefined"}
-        </a>
+        </Link>
       </button>
     </div>
   );
