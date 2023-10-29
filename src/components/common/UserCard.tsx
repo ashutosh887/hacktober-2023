@@ -21,8 +21,6 @@ function UserCard({ name, email, githubURL, about }: Props) {
   return (
     <div className="flex flex-col bg-secondary rounded-lg p-4">
       <span className="text-primary text-xl">{name || "undefined"}</span>
-      {/* <span>{email || "undefined"}</span>
-      <span>{userName || "undefined"}</span> */}
       <span>{about || "undefined"}</span>
 
       <button
@@ -34,7 +32,9 @@ function UserCard({ name, email, githubURL, about }: Props) {
       </button>
       <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded mt-2">
         <AiFillGithub className="inline-block w-6 h-6 mr-2" />
-        {userName || "undefined"}
+        <a href={`https://github.com/${userName}`} target="_blank">
+          {userName || "undefined"}
+        </a>
       </button>
     </div>
   );
