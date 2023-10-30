@@ -5,9 +5,10 @@ type Props = {
   text: string;
   link: string;
   targetBlank?: boolean;
+  icon?: React.ReactElement;
 };
 
-function LinkButton({ text, link, targetBlank }: Props) {
+function LinkButton({ text, link, targetBlank, icon }: Props) {
   return (
     <a
       href={link}
@@ -15,6 +16,7 @@ function LinkButton({ text, link, targetBlank }: Props) {
       rel={targetBlank ? "noopener noreferrer" : undefined}
     >
       <Button variant="link" className="p-0">
+        {icon}
         {text}
       </Button>
     </a>

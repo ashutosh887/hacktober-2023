@@ -2,6 +2,7 @@ import { extractUserName } from "@/util/extractUserName";
 import React, { useEffect, useState } from "react";
 import { AiOutlineMail, AiFillGithub } from "react-icons/ai";
 import Link from "next/link";
+import LinkButton from "./LinkButton";
 
 type Props = {
   name?: string;
@@ -24,20 +25,19 @@ function UserCard({ name, email, githubURL, about }: Props) {
       <span className="text-primary text-xl">{name || "undefined"}</span>
       <span>{about || "undefined"}</span>
 
-      <button
-        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-2"
-        // onClick=()
-      >
-        <AiOutlineMail className="inline-block w-6 h-6 mr-2" />
-        {email || "undefined"}
-      </button>
+      <LinkButton
+        text={email || "undefined"}
+        link={""}
+        targetBlank={true}
+        icon={<AiOutlineMail className="inline-block w-6 h-6 mr-2" />}
+      />
 
-      <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded mt-2">
-        <Link href={`https://github.com/${userName}`} target="_blank" passHref>
-          <AiFillGithub className="inline-block w-6 h-6 mr-2" />
-          {userName || "undefined"}
-        </Link>
-      </button>
+      <LinkButton
+        text={userName || "undefined"}
+        link={`https://github.com/${userName}`}
+        targetBlank={true}
+        icon={<AiFillGithub className="inline-block w-6 h-6 mr-2" />}
+      />
     </div>
   );
 }
