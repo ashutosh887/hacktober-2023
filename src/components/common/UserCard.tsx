@@ -27,7 +27,7 @@ function UserCard({ name, email, githubURL, about }: Props) {
 
       <LinkButton
         text={email || "undefined"}
-        link={"mailto:someone@something.com"}
+        link={`mailto:${email}`}
         targetBlank={true}
         icon={<AiOutlineMail className="inline-block w-6 h-6 mr-2" />}
       />
