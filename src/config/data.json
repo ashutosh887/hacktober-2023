@@ -131,7 +131,7 @@
     "githubURL": "https://github.com/varunlmxd",
     "about": "Open Source and CP enthusiast"
   },
-  { 
+  {
     "name": "Anirudh",
     "email": "anirudh.ashrith2005@gmail.com",
     "githubURL": "https://github.com/me50/Ani07-05",
@@ -147,7 +147,7 @@
     "name": "Sushruth V Kamble",
     "email": "sushruthvi3@gmail.com",
     "githubURL": "https://github.com/Sushruthvi",
-    "about":"Student"
+    "about": "Student"
   },
   {
     "name": "Kareem ",
@@ -156,11 +156,11 @@
     "about": "Student"
   },
   {
-     "name": "Sanjay S G",
-     "email": "Sanjays.bsc23@rvu.edu.in",
-     "githubURL": "https://github.com/Sanjay2408",
-     "about": "Student at RVU Interested in web development"
-   },
+    "name": "Sanjay S G",
+    "email": "Sanjays.bsc23@rvu.edu.in",
+    "githubURL": "https://github.com/Sanjay2408",
+    "about": "Student at RVU Interested in web development"
+  },
   {
     "name": "Sagar N Rao",
     "email": "sagarnrao154@gmail.com",
@@ -180,16 +180,16 @@
     "about": "Software Engineer"
   },
   {
-     "name": "Aditya Kumar",
-     "email": "adityakumar13820@gmail.com",
-     "githubURL": "https://github.com/AdityaCodeZZZ",
-     "about": "Software Engineer"
+    "name": "Aditya Kumar",
+    "email": "adityakumar13820@gmail.com",
+    "githubURL": "https://github.com/AdityaCodeZZZ",
+    "about": "Software Engineer"
   },
   {
-   "name":"Tanmay M S",
+    "name": "Tanmay M S",
     "email": "tanmayms.btech23@rvu.edu.in",
     "githubURL": "https://github.com/tanygit",
-    "about":"Student"
+    "about": "Student"
   },
   {
     "name": "Sri Krishna R Hebbar",
@@ -310,5 +310,11 @@
     "email": "guptamansig226@gmail.com",
     "githubURL": "https://github.com/mansi-g143/",
     "about": "Python Enthusiast, Learning DSA"
+  },
+  {
+    "name": "Fardin Khan",
+    "email": "fardinkhan7786@gmail.com",
+    "githubURL": "https://github.com/fardink33",
+    "about": "Learner"
   }
 ]
