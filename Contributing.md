@@ -2,11 +2,14 @@
 
 - Node.js (>=16.0)
 
+- git
+
 ## How to contribute?
 
 - Create a fork of the Repository and clone that repo from the URL assigned to the project in your account.
 
 - Clone the Repository you've made into your system and run:
+
 ```
 npm install
 ```
@@ -14,6 +17,7 @@ npm install
 to install all the dependencies.
 
 - To start the project, run:
+
 ```
 npm run dev
 ```
