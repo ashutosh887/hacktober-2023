@@ -1,5 +1,4 @@
 import React from "react";
-import { Button } from "../ui/button";
 import { githubUrl, githubUsername } from "@/config/constants";
 import LinkButton from "./LinkButton";
 

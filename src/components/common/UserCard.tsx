@@ -1,7 +1,6 @@
 import { extractUserName } from "@/util/extractUserName";
 import React, { useEffect, useState } from "react";
 import { AiOutlineMail, AiFillGithub } from "react-icons/ai";
-import Link from "next/link";
 import LinkButton from "./LinkButton";
 
 type Props = {
