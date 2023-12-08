@@ -48,6 +48,8 @@
 
 ## Spring 2: Licencing
 
+In short, licensing is the legal framework that defines how others can use, modify, and distribute software, content, or creative works. It outlines the permissions and restrictions imposed by the original creator or copyright holder. Open-source licenses, like the MIT License or GNU General Public License (GPL), specify the terms under which software can be freely shared, modified, and distributed by the community.
+
 1. **MIT License:**
    - Permissive and simple license.
    - Allows for almost unrestricted use, modification, and distribution of the code.
