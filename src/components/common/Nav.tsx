@@ -1,7 +1,9 @@
-import { appName } from "@/config/constants";
+import { appName, repositoryUrl } from "@/config/constants";
 import React from "react";
 import { ModeToggle } from "../ui/toggle-mode";
 import data from "@/config/data.json";
+import LinkButton from "./LinkButton";
+import { FaGithub } from "react-icons/fa";
 
 type Props = {};
 
@@ -15,7 +17,14 @@ function Nav({}: Props) {
         </span>
       </section>
 
-      <ModeToggle />
+      <section className="flex justify-center items-center space-x-3">
+        <LinkButton
+          icon={<FaGithub className="w-6 h-6" />}
+          link={repositoryUrl}
+        />
+
+        <ModeToggle />
+      </section>
     </div>
   );
 }

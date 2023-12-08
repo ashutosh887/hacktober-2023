@@ -2,7 +2,7 @@ import React from "react";
 import { Button } from "../ui/button";
 
 type Props = {
-  text: string;
+  text?: string;
   link: string;
   targetBlank?: boolean;
   icon?: React.ReactElement;
