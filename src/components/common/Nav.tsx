@@ -21,6 +21,7 @@ function Nav({}: Props) {
         <LinkButton
           icon={<FaGithub className="w-6 h-6" />}
           link={repositoryUrl}
+          targetBlank={true}
         />
 
         <ModeToggle />
